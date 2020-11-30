@@ -13,7 +13,7 @@ import org.junit.runners.Suite;
         CountDuplicatesInMergeTest.class,
         GetMostCommonFromMergeTest.class,
         GetNumberOfOccurrencesTest.class,
-        RemoveValueTest.class
+//        RemoveValueTest.class
 })
 public class ArrayUtilityTestSuite {
 }
